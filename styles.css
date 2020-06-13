@@ -1,0 +1,24 @@
+.header {
+  padding: 40px;
+  text-align: center;
+  background: red;
+  color: white;
+  font-size: 30px;
+}
+
+.notes {
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+.addButton {
+  background-color: red;
+  color: white;
+  border-color: red;
+}
